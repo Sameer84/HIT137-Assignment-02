@@ -19,5 +19,5 @@
        * :spacy module(en_coew_wev_sm)
        * scispacy==0.5.3 : newest version
        * :scispacy module(en_ner_bc5cdr_md)
-       * transformers[bert] : bert as a bio-medical model
+       * transformers[biogpt] : biogpt as a bio-medical model https://huggingface.co/docs/transformers/model_doc/biogpt
 
