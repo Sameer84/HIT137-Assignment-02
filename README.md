@@ -6,7 +6,7 @@
 [Nishat Anjum] - [S374044]  
 
 ### configuration
-1. setup venv(virtual environments) with Python<3.9, recommend 3.8.11
+1. setup venv(virtual environments) with Python<3.9, recommend 3.8.10
     - How to set up venv? [Python Docs](https://docs.python.org) › library › venv)
     - scispacy==0.5.3 uses nmslib which requires Python<3.9
     - reference: https://github.com/allenai/scispacy/issues/291#issuecomment-771076466
