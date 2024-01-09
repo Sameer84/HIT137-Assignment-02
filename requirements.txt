@@ -10,7 +10,7 @@ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0
 # check: https://github.com/allenai/scispacy/issues/291
 # scispacy and en_ner_bc5cdr_md model
 scispacy==0.5.3
-https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_md-0.5.3.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_ner_bc5cdr_md-0.5.3.tar.gz
 
 # transformers and bio-medical model (BioBert)
 transformers
