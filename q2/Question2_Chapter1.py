@@ -35,4 +35,4 @@ new_image.save(output_image_path)
 
 #Show a notification that the procedure is finished.
 print(f"Updated picture with changed pixels saved as {output_image_path}")
-print(f"Total red pixel values in the updated picture: {red_sum}")
+print(f"Sum red pixel values in the updated picture: {red_sum}")
