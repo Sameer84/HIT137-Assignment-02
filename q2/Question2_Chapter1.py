@@ -1,6 +1,6 @@
 import os, sys
-from PIL import Image
-import time
+from PIL import Image #pip install pillow
+import time #pip install time
 
 #Open the original picture.
 image_direction = "chapter1.jpg"
