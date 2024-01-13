@@ -20,6 +20,7 @@
        * scispacy==0.5.3 : newest version
        * :scispacy module(en_ner_bc5cdr_md)
        * transformers
+       * pillow(10.2.0)
 3. copy 4 CSV Files from assessment 2 zip folder to q1 
     - CSV1.csv, CSV2.csv, CSV3.csv, CSV4.csv
     
