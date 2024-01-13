@@ -11,26 +11,6 @@ CHUNKS_DIRECTORY = PRE_DIR_NAME + '/chunks'
 MODEL_NAME = 'dmis-lab/biobert-v1.1'
 
 
-# # Read the text file
-# with open('./q1/merged_csv.txt', 'r') as file:
-#     text = file.read()
-
-# # Split the text into words
-# words = text.split()
-
-# # Count the occurrences of each word
-# word_counts = Counter(words)
-
-# # Get the top 30 most common words
-# top_30_words = word_counts.most_common(30)
-
-# # Write the top 30 words and their counts to a CSV file
-# with open('./q1/top_30_output.csv', 'w', newline='') as file:
-#     writer = csv.writer(file)
-#     writer.writerow(['Word', 'Count'])
-#     writer.writerows(top_30_words)
-
-
 def count_unique_tokens(file_path, model_name, top_n=30, chunk_size=800):
     start = time.process_time()
     # Load the AutoTokenizer
