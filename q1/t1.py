@@ -11,6 +11,7 @@ try:
             with open(file, 'r') as f_in:
                 content = f_in.read()
                 f_out.write(content)
+                print()
     print('proccess done.')
 except IOError as e:
     # if any csv file is missing
